@@ -1,0 +1,16 @@
+rank,job_title,category,match_score_pct,cosine_similarity,euclidean_distance,required_skills
+1,Python Developer,Software Engineering,4.72,0.0472,1.3804,python; django; flask; rest api; mysql; git; agile; sql
+2,Frontend Developer,Web Development,4.68,0.0468,1.3807,javascript; react; html; css; typescript; rest api; git; agile
+3,Full Stack Developer,Web Development,3.3,0.033,1.3907,javascript; react; node.js; python; mongodb; html; css; git; docker; rest api
+4,Machine Learning Engineer,AI / ML,3.21,0.0321,1.3914,python; machine learning; tensorflow; pytorch; deep learning; docker; aws; numpy; pandas
+5,Backend Developer,Software Engineering,2.79,0.0279,1.3943,python; java; node.js; rest api; mongodb; postgresql; docker; microservices
+6,Project Manager (Tech),Management,2.23,0.0223,1.3984,project management; agile; scrum; jira; leadership; communication; teamwork; presentation
+7,NLP Engineer,AI / ML,2.08,0.0208,1.3994,python; natural language processing; machine learning; deep learning; flask; tensorflow
+8,Database Administrator,Database,2.07,0.0207,1.3995,mysql; postgresql; oracle; sql; mongodb; redis; linux
+9,Mobile App Developer,Mobile Development,1.97,0.0197,1.4002,swift; kotlin; react; javascript; rest api; git
+10,Data Scientist,Data Science,1.86,0.0186,1.401,python; pandas; numpy; machine learning; tensorflow; statistics; sql; data visualization; scikit-learn; deep learning
+11,DevOps Engineer,Cloud & DevOps,1.31,0.0131,1.4049,docker; kubernetes; aws; linux; ci/cd; terraform; jenkins; python; bash
+12,Cloud Architect,Cloud & DevOps,1.23,0.0123,1.4055,aws; azure; gcp; kubernetes; docker; microservices; serverless; terraform
+13,AI Research Scientist,AI / ML,0.94,0.0094,1.4076,python; pytorch; tensorflow; deep learning; machine learning; natural language processing; computer vision; statistics
+14,Data Analyst,Data Science,0.8,0.008,1.4085,sql; excel; python; tableau; pandas; data visualization; statistics; communication
+15,Cybersecurity Analyst,Security,0.55,0.0055,1.4103,linux; python; networking; sql; communication; problem solving

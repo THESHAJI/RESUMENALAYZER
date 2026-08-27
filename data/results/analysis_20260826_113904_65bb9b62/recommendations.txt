@@ -1,0 +1,9 @@
+============================================================
+  CAREER INTELLIGENCE RECOMMENDATIONS
+  Generated: 2026-08-26 11:39:04
+============================================================
+
+  1. NEEDS IMPROVEMENT: Your resume has low similarity to available roles. Consider adding more relevant technical skills.
+
+  2. SKILLS TO LEARN: docker, data visualization, django, aws, rest api, flask, pytorch
+

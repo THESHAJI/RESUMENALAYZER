@@ -1,0 +1,16 @@
+rank,job_title,category,match_score_pct,cosine_similarity,euclidean_distance,required_skills
+1,Mobile App Developer,Mobile Development,0.9,0.009,1.4079,swift; kotlin; react; javascript; rest api; git
+2,DevOps Engineer,Cloud & DevOps,0.81,0.0081,1.4085,docker; kubernetes; aws; linux; ci/cd; terraform; jenkins; python; bash
+3,Frontend Developer,Web Development,0.73,0.0073,1.4091,javascript; react; html; css; typescript; rest api; git; agile
+4,Data Analyst,Data Science,0.49,0.0049,1.4107,sql; excel; python; tableau; pandas; data visualization; statistics; communication
+5,NLP Engineer,AI / ML,0.38,0.0038,1.4115,python; natural language processing; machine learning; deep learning; flask; tensorflow
+6,Python Developer,Software Engineering,0.0,0.0,1.4142,python; django; flask; rest api; mysql; git; agile; sql
+7,Data Scientist,Data Science,0.0,0.0,1.4142,python; pandas; numpy; machine learning; tensorflow; statistics; sql; data visualization; scikit-learn; deep learning
+8,Backend Developer,Software Engineering,0.0,0.0,1.4142,python; java; node.js; rest api; mongodb; postgresql; docker; microservices
+9,Machine Learning Engineer,AI / ML,0.0,0.0,1.4142,python; machine learning; tensorflow; pytorch; deep learning; docker; aws; numpy; pandas
+10,Full Stack Developer,Web Development,0.0,0.0,1.4142,javascript; react; node.js; python; mongodb; html; css; git; docker; rest api
+11,Cloud Architect,Cloud & DevOps,0.0,0.0,1.4142,aws; azure; gcp; kubernetes; docker; microservices; serverless; terraform
+12,Cybersecurity Analyst,Security,0.0,0.0,1.4142,linux; python; networking; sql; communication; problem solving
+13,AI Research Scientist,AI / ML,0.0,0.0,1.4142,python; pytorch; tensorflow; deep learning; machine learning; natural language processing; computer vision; statistics
+14,Database Administrator,Database,0.0,0.0,1.4142,mysql; postgresql; oracle; sql; mongodb; redis; linux
+15,Project Manager (Tech),Management,0.0,0.0,1.4142,project management; agile; scrum; jira; leadership; communication; teamwork; presentation

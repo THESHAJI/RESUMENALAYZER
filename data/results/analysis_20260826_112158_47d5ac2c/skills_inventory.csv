@@ -1,0 +1,11 @@
+category,skill,found_in_resume
+Programming Languages,c#,Yes
+Programming Languages,go,Yes
+Programming Languages,php,Yes
+Programming Languages,r,Yes
+Data Science & ML,nlp,Yes
+Web Development,vue,Yes
+Cloud & DevOps,aws,Yes
+Cloud & DevOps,gcp,Yes
+Tools & Platforms,git,Yes
+Tools & Platforms,github,Yes

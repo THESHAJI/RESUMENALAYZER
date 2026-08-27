@@ -1,0 +1,6 @@
+job_title,match_score,skill_coverage_pct,present_skills,missing_skills,total_required,total_present,total_missing
+Machine Learning Engineer,8.78,66.7,python; deep learning; machine learning; tensorflow; numpy; pandas,pytorch; aws; docker,9,6,3
+Data Scientist,7.6,90.0,pandas; python; deep learning; sql; numpy; tensorflow; scikit-learn; machine learning; statistics,data visualization,10,9,1
+Full Stack Developer,5.34,60.0,javascript; python; mongodb; react; node.js; git,rest api; html; docker; css,10,6,4
+Frontend Developer,4.96,62.5,javascript; react; typescript; git; agile,rest api; html; css,8,5,3
+Backend Developer,4.38,50.0,mongodb; java; python; node.js,rest api; docker; postgresql; microservices,8,4,4

@@ -1,0 +1,30 @@
+category,skill,found_in_resume
+Programming Languages,python,Yes
+Programming Languages,java,Yes
+Programming Languages,javascript,Yes
+Programming Languages,c++,Yes
+Programming Languages,go,Yes
+Programming Languages,typescript,Yes
+Programming Languages,scala,Yes
+Programming Languages,r,Yes
+Programming Languages,sql,Yes
+Web Development,react,Yes
+Web Development,node.js,Yes
+Web Development,express,Yes
+Web Development,flask,Yes
+Web Development,spring boot,Yes
+Cloud & DevOps,aws,Yes
+Cloud & DevOps,docker,Yes
+Cloud & DevOps,kubernetes,Yes
+Cloud & DevOps,jenkins,Yes
+Cloud & DevOps,ci/cd,Yes
+Cloud & DevOps,terraform,Yes
+Cloud & DevOps,microservices,Yes
+Cloud & DevOps,devops,Yes
+Databases,mysql,Yes
+Databases,postgresql,Yes
+Databases,mongodb,Yes
+Databases,redis,Yes
+Databases,dynamodb,Yes
+Tools & Platforms,git,Yes
+Tools & Platforms,jira,Yes

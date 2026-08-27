@@ -1,0 +1,69 @@
+RAHUL SHARMA
+Software Engineer | Data Science Enthusiast
+Email: rahul.sharma@email.com | Phone: +91 9876543210
+LinkedIn: linkedin.com/in/rahulsharma | GitHub: github.com/rahulsharma
+
+PROFESSIONAL SUMMARY
+Passionate software engineer with 3+ years of experience in Python development,
+machine learning, and web technologies. Strong foundation in data analysis,
+NLP, and building scalable applications. Experienced in agile methodologies
+and cross-functional team collaboration.
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+National Institute of Technology, 2020
+CGPA: 8.7/10
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, JavaScript, SQL, HTML, CSS, C++
+Machine Learning: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib
+Web Development: Flask, Django, React, REST API, Node.js
+Databases: MySQL, PostgreSQL, MongoDB, Redis
+Cloud & DevOps: AWS, Docker, Git, GitHub, Linux, CI/CD
+Tools: Jupyter, VS Code, Postman, Jira, Tableau
+
+WORK EXPERIENCE
+
+Software Engineer | TechCorp Solutions | 2022 - Present
+- Developed machine learning models for text classification using Python and scikit-learn
+- Built REST APIs using Flask and Django for data processing pipelines
+- Implemented natural language processing solutions using NLTK and spaCy
+- Managed MySQL and PostgreSQL databases for production applications
+- Deployed applications on AWS using Docker containers
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+
+Junior Developer | DataVerse Analytics | 2020 - 2022
+- Created data visualization dashboards using Matplotlib and Tableau
+- Performed data analysis using Pandas and NumPy on large datasets
+- Developed web applications using React and Node.js
+- Implemented data cleaning and preprocessing pipelines
+- Wrote unit tests and maintained code quality with Git version control
+
+PROJECTS
+
+1. Smart Resume Analyzer
+   Built an NLP-powered system to analyze resumes and match with job descriptions
+   using TF-IDF vectorization and cosine similarity.
+   Tech: Python, NLTK, Scikit-learn, Matplotlib
+
+2. E-Commerce Recommendation Engine
+   Developed a collaborative filtering recommendation system for product suggestions.
+   Tech: Python, TensorFlow, Pandas, Flask, MongoDB
+
+3. Real-time Chat Application
+   Full-stack web application with real-time messaging using WebSocket.
+   Tech: React, Node.js, MongoDB, Docker
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner
+- Google Data Analytics Professional Certificate
+- Machine Learning by Stanford University (Coursera)
+
+ACHIEVEMENTS
+- Led a team of 5 developers in delivering a critical project 2 weeks ahead of schedule
+- Published research paper on NLP-based text classification at IEEE conference
+- Won first place in university-level hackathon for building an AI chatbot
+
+SOFT SKILLS
+Leadership, Communication, Teamwork, Problem Solving, Project Management,
+Critical Thinking, Time Management, Presentation, Mentoring, Collaboration

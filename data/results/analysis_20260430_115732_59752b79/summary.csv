@@ -1,0 +1,2 @@
+analysis_id,timestamp,resume_strength,total_skills_found,avg_match_score,top_match_score,top_match_job,high_matches,medium_matches,low_matches,categories_covered,recommendations_count
+analysis_20260430_115732_59752b79,2026-04-30 11:57:32,43.7,29,3.9,11.4,Backend Developer,0,0,0,5,3

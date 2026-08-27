@@ -1,0 +1,9 @@
+============================================================
+  CAREER INTELLIGENCE RECOMMENDATIONS
+  Generated: 2026-08-26 11:48:33
+============================================================
+
+  1. EXCELLENT: Strong match for 'Data Scientist' (72.1%). You are well-suited for this role.
+
+  2. SKILLS TO LEARN: data visualization, pytorch, flask, docker, natural language processing, aws
+

@@ -1,0 +1,13 @@
+============================================================
+  CAREER INTELLIGENCE RECOMMENDATIONS
+  Generated: 2026-08-26 11:13:20
+============================================================
+
+  1. NEEDS IMPROVEMENT: Your resume has low similarity to available roles. Consider adding more relevant technical skills.
+
+  2. SKILLS TO LEARN: ci/cd, swift, jenkins, html, aws, kotlin, css, docker
+
+  3. TIP: Cloud skills (AWS, Docker, Kubernetes) are highly in-demand.
+
+  4. TIP: Include soft skills like leadership, communication, and teamwork.
+

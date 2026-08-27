@@ -1,0 +1,16 @@
+rank,job_title,category,match_score_pct,cosine_similarity,euclidean_distance,required_skills
+1,Machine Learning Engineer,AI / ML,8.76,0.0876,1.3509,python; machine learning; tensorflow; pytorch; deep learning; docker; aws; numpy; pandas
+2,Data Scientist,Data Science,7.59,0.0759,1.3595,python; pandas; numpy; machine learning; tensorflow; statistics; sql; data visualization; scikit-learn; deep learning
+3,Full Stack Developer,Web Development,5.33,0.0533,1.376,javascript; react; node.js; python; mongodb; html; css; git; docker; rest api
+4,Frontend Developer,Web Development,4.95,0.0495,1.3788,javascript; react; html; css; typescript; rest api; git; agile
+5,Backend Developer,Software Engineering,4.37,0.0437,1.383,python; java; node.js; rest api; mongodb; postgresql; docker; microservices
+6,Python Developer,Software Engineering,4.1,0.041,1.3849,python; django; flask; rest api; mysql; git; agile; sql
+7,NLP Engineer,AI / ML,4.05,0.0405,1.3853,python; natural language processing; machine learning; deep learning; flask; tensorflow
+8,AI Research Scientist,AI / ML,3.8,0.038,1.3871,python; pytorch; tensorflow; deep learning; machine learning; natural language processing; computer vision; statistics
+9,Data Analyst,Data Science,2.8,0.028,1.3943,sql; excel; python; tableau; pandas; data visualization; statistics; communication
+10,Mobile App Developer,Mobile Development,2.23,0.0223,1.3984,swift; kotlin; react; javascript; rest api; git
+11,Database Administrator,Database,2.21,0.0221,1.3985,mysql; postgresql; oracle; sql; mongodb; redis; linux
+12,Project Manager (Tech),Management,2.16,0.0216,1.3989,project management; agile; scrum; jira; leadership; communication; teamwork; presentation
+13,DevOps Engineer,Cloud & DevOps,1.68,0.0168,1.4023,docker; kubernetes; aws; linux; ci/cd; terraform; jenkins; python; bash
+14,Cloud Architect,Cloud & DevOps,1.22,0.0122,1.4055,aws; azure; gcp; kubernetes; docker; microservices; serverless; terraform
+15,Cybersecurity Analyst,Security,0.0,0.0,1.4142,linux; python; networking; sql; communication; problem solving

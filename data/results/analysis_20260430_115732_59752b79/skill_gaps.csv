@@ -1,0 +1,6 @@
+job_title,match_score,skill_coverage_pct,present_skills,missing_skills,total_required,total_present,total_missing
+Backend Developer,11.4,87.5,java; docker; postgresql; mongodb; microservices; python; node.js,rest api,8,7,1
+Full Stack Developer,9.23,70.0,docker; react; mongodb; python; git; node.js; javascript,html; rest api; css,10,7,3
+DevOps Engineer,6.12,77.8,docker; kubernetes; ci/cd; python; jenkins; terraform; aws,bash; linux,9,7,2
+Database Administrator,5.03,71.4,sql; postgresql; mongodb; redis; mysql,linux; oracle,7,5,2
+Mobile App Developer,4.41,50.0,git; react; javascript,swift; rest api; kotlin,6,3,3

@@ -1,0 +1,2 @@
+analysis_id,timestamp,resume_strength,total_skills_found,avg_match_score,top_match_score,top_match_job,high_matches,medium_matches,low_matches,categories_covered,recommendations_count
+analysis_20260430_110647_9d1c7dda,2026-04-30 11:06:47,50.9,53,6.7,14.2,Full Stack Developer,0,0,0,7,2

@@ -1,0 +1,6 @@
+job_title,match_score,skill_coverage_pct,present_skills,missing_skills,total_required,total_present,total_missing
+Full Stack Developer,87.0,100.0,git; html; mongodb; react; rest api; node.js; python; css; docker; javascript,,10,10,0
+Python Developer,80.6,100.0,git; django; mysql; flask; rest api; python; sql; agile,,8,8,0
+Project Manager (Tech),79.2,100.0,communication; project management; presentation; leadership; teamwork; jira; agile; scrum,,8,8,0
+NLP Engineer,72.1,83.3,natural language processing; flask; machine learning; python; tensorflow,deep learning,6,5,1
+Data Scientist,70.6,80.0,pandas; sql; numpy; machine learning; python; tensorflow; scikit-learn; data visualization,statistics; deep learning,10,8,2

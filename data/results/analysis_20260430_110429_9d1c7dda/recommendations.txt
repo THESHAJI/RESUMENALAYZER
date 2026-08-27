@@ -1,0 +1,9 @@
+============================================================
+  CAREER INTELLIGENCE RECOMMENDATIONS
+  Generated: 2026-04-30 11:04:29
+============================================================
+
+  1. NEEDS IMPROVEMENT: Your resume has low similarity to available roles. Consider adding more relevant technical skills.
+
+  2. SKILLS TO LEARN: statistics, deep learning
+

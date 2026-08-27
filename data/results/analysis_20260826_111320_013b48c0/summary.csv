@@ -1,0 +1,2 @@
+analysis_id,timestamp,resume_strength,total_skills_found,avg_match_score,top_match_score,top_match_job,high_matches,medium_matches,low_matches,categories_covered,recommendations_count
+analysis_20260826_111320_013b48c0,2026-08-26 11:13:20,13.5,6,0.2,0.9,Mobile App Developer,0,0,0,2,4

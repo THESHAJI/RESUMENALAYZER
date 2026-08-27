@@ -1,0 +1,2 @@
+analysis_id,timestamp,resume_strength,total_skills_found,avg_match_score,top_match_score,top_match_job,high_matches,medium_matches,low_matches,categories_covered,recommendations_count
+analysis_20260430_113851_cb4cba58,2026-04-30 11:38:51,30.0,11,2.2,4.7,Python Developer,0,0,0,5,4

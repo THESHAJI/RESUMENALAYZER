@@ -1,0 +1,54 @@
+category,skill,found_in_resume
+Programming Languages,python,Yes
+Programming Languages,java,Yes
+Programming Languages,javascript,Yes
+Programming Languages,c++,Yes
+Programming Languages,go,Yes
+Programming Languages,scala,Yes
+Programming Languages,r,Yes
+Programming Languages,sql,Yes
+Programming Languages,html,Yes
+Programming Languages,css,Yes
+Data Science & ML,machine learning,Yes
+Data Science & ML,tensorflow,Yes
+Data Science & ML,scikit-learn,Yes
+Data Science & ML,pandas,Yes
+Data Science & ML,numpy,Yes
+Data Science & ML,data analysis,Yes
+Data Science & ML,data visualization,Yes
+Data Science & ML,nlp,Yes
+Data Science & ML,natural language processing,Yes
+Data Science & ML,classification,Yes
+Web Development,react,Yes
+Web Development,node.js,Yes
+Web Development,django,Yes
+Web Development,flask,Yes
+Web Development,rest api,Yes
+Cloud & DevOps,aws,Yes
+Cloud & DevOps,docker,Yes
+Cloud & DevOps,ci/cd,Yes
+Cloud & DevOps,linux,Yes
+Cloud & DevOps,devops,Yes
+Databases,mysql,Yes
+Databases,postgresql,Yes
+Databases,mongodb,Yes
+Databases,redis,Yes
+Tools & Platforms,git,Yes
+Tools & Platforms,github,Yes
+Tools & Platforms,jira,Yes
+Tools & Platforms,vs code,Yes
+Tools & Platforms,jupyter,Yes
+Tools & Platforms,postman,Yes
+Tools & Platforms,tableau,Yes
+Soft Skills,leadership,Yes
+Soft Skills,communication,Yes
+Soft Skills,teamwork,Yes
+Soft Skills,problem solving,Yes
+Soft Skills,critical thinking,Yes
+Soft Skills,project management,Yes
+Soft Skills,agile,Yes
+Soft Skills,scrum,Yes
+Soft Skills,time management,Yes
+Soft Skills,collaboration,Yes
+Soft Skills,mentoring,Yes
+Soft Skills,presentation,Yes

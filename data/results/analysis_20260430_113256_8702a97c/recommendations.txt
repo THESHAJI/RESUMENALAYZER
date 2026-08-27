@@ -1,0 +1,11 @@
+============================================================
+  CAREER INTELLIGENCE RECOMMENDATIONS
+  Generated: 2026-04-30 11:32:56
+============================================================
+
+  1. NEEDS IMPROVEMENT: Your resume has low similarity to available roles. Consider adding more relevant technical skills.
+
+  2. SKILLS TO LEARN: node.js, django, agile, typescript, flask, rest api, docker, sql
+
+  3. TIP: Include soft skills like leadership, communication, and teamwork.
+

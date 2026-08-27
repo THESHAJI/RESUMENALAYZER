@@ -1,0 +1,2 @@
+analysis_id,timestamp,resume_strength,total_skills_found,avg_match_score,top_match_score,top_match_job,high_matches,medium_matches,low_matches,categories_covered,recommendations_count
+analysis_20260826_114833_731c3942,2026-08-26 11:48:33,76.3,31,38.6,72.1,Data Scientist,1,6,4,7,2

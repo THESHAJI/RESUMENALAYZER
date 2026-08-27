@@ -1,0 +1,11 @@
+============================================================
+  CAREER INTELLIGENCE RECOMMENDATIONS
+  Generated: 2026-08-26 11:21:58
+============================================================
+
+  1. NEEDS IMPROVEMENT: Your resume has low similarity to available roles. Consider adding more relevant technical skills.
+
+  2. SKILLS TO LEARN: swift, html, rest api, javascript, bash, react, python, linux
+
+  3. TIP: Include soft skills like leadership, communication, and teamwork.
+

@@ -1,0 +1,2 @@
+analysis_id,timestamp,resume_strength,total_skills_found,avg_match_score,top_match_score,top_match_job,high_matches,medium_matches,low_matches,categories_covered,recommendations_count
+analysis_20260826_112844_b944440c,2026-08-26 11:28:44,48.6,31,3.7,8.8,Machine Learning Engineer,0,0,0,7,2

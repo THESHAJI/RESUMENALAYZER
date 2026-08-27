@@ -1,0 +1,16 @@
+rank,job_title,category,match_score_pct,cosine_similarity,euclidean_distance,required_skills
+1,Mobile App Developer,Mobile Development,0.98,0.0098,1.4072,swift; kotlin; react; javascript; rest api; git
+2,DevOps Engineer,Cloud & DevOps,0.85,0.0085,1.4082,docker; kubernetes; aws; linux; ci/cd; terraform; jenkins; python; bash
+3,Frontend Developer,Web Development,0.84,0.0084,1.4083,javascript; react; html; css; typescript; rest api; git; agile
+4,Data Analyst,Data Science,0.43,0.0043,1.4112,sql; excel; python; tableau; pandas; data visualization; statistics; communication
+5,NLP Engineer,AI / ML,0.14,0.0014,1.4132,python; natural language processing; machine learning; deep learning; flask; tensorflow
+6,Cloud Architect,Cloud & DevOps,0.13,0.0013,1.4133,aws; azure; gcp; kubernetes; docker; microservices; serverless; terraform
+7,Python Developer,Software Engineering,0.0,0.0,1.4142,python; django; flask; rest api; mysql; git; agile; sql
+8,Data Scientist,Data Science,0.0,0.0,1.4142,python; pandas; numpy; machine learning; tensorflow; statistics; sql; data visualization; scikit-learn; deep learning
+9,Backend Developer,Software Engineering,0.0,0.0,1.4142,python; java; node.js; rest api; mongodb; postgresql; docker; microservices
+10,Machine Learning Engineer,AI / ML,0.0,0.0,1.4142,python; machine learning; tensorflow; pytorch; deep learning; docker; aws; numpy; pandas
+11,Full Stack Developer,Web Development,0.0,0.0,1.4142,javascript; react; node.js; python; mongodb; html; css; git; docker; rest api
+12,Cybersecurity Analyst,Security,0.0,0.0,1.4142,linux; python; networking; sql; communication; problem solving
+13,AI Research Scientist,AI / ML,0.0,0.0,1.4142,python; pytorch; tensorflow; deep learning; machine learning; natural language processing; computer vision; statistics
+14,Database Administrator,Database,0.0,0.0,1.4142,mysql; postgresql; oracle; sql; mongodb; redis; linux
+15,Project Manager (Tech),Management,0.0,0.0,1.4142,project management; agile; scrum; jira; leadership; communication; teamwork; presentation

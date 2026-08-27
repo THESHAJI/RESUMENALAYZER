@@ -1,0 +1,16 @@
+rank,job_title,category,match_score_pct,cosine_similarity,euclidean_distance,required_skills
+1,Machine Learning Engineer,AI / ML,7.63,0.0763,1.3592,python; machine learning; tensorflow; pytorch; deep learning; docker; aws; numpy; pandas
+2,Data Scientist,Data Science,6.75,0.0675,1.3657,python; pandas; numpy; machine learning; tensorflow; statistics; sql; data visualization; scikit-learn; deep learning
+3,Python Developer,Software Engineering,6.27,0.0627,1.3692,python; django; flask; rest api; mysql; git; agile; sql
+4,Full Stack Developer,Web Development,5.84,0.0584,1.3723,javascript; react; node.js; python; mongodb; html; css; git; docker; rest api
+5,Frontend Developer,Web Development,5.66,0.0566,1.3736,javascript; react; html; css; typescript; rest api; git; agile
+6,Backend Developer,Software Engineering,5.0,0.05,1.3784,python; java; node.js; rest api; mongodb; postgresql; docker; microservices
+7,AI Research Scientist,AI / ML,4.96,0.0496,1.3787,python; pytorch; tensorflow; deep learning; machine learning; natural language processing; computer vision; statistics
+8,NLP Engineer,AI / ML,3.04,0.0304,1.3926,python; natural language processing; machine learning; deep learning; flask; tensorflow
+9,Data Analyst,Data Science,2.78,0.0278,1.3944,sql; excel; python; tableau; pandas; data visualization; statistics; communication
+10,Mobile App Developer,Mobile Development,2.16,0.0216,1.3988,swift; kotlin; react; javascript; rest api; git
+11,Cloud Architect,Cloud & DevOps,2.01,0.0201,1.3999,aws; azure; gcp; kubernetes; docker; microservices; serverless; terraform
+12,Project Manager (Tech),Management,2.01,0.0201,1.3999,project management; agile; scrum; jira; leadership; communication; teamwork; presentation
+13,Database Administrator,Database,1.94,0.0194,1.4004,mysql; postgresql; oracle; sql; mongodb; redis; linux
+14,DevOps Engineer,Cloud & DevOps,1.51,0.0151,1.4035,docker; kubernetes; aws; linux; ci/cd; terraform; jenkins; python; bash
+15,Cybersecurity Analyst,Security,0.37,0.0037,1.4116,linux; python; networking; sql; communication; problem solving

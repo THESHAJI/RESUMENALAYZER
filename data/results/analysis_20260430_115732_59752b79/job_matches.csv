@@ -1,0 +1,16 @@
+rank,job_title,category,match_score_pct,cosine_similarity,euclidean_distance,required_skills
+1,Backend Developer,Software Engineering,11.4,0.114,1.3311,python; java; node.js; rest api; mongodb; postgresql; docker; microservices
+2,Full Stack Developer,Web Development,9.23,0.0923,1.3474,javascript; react; node.js; python; mongodb; html; css; git; docker; rest api
+3,DevOps Engineer,Cloud & DevOps,6.12,0.0612,1.3703,docker; kubernetes; aws; linux; ci/cd; terraform; jenkins; python; bash
+4,Database Administrator,Database,5.03,0.0503,1.3782,mysql; postgresql; oracle; sql; mongodb; redis; linux
+5,Mobile App Developer,Mobile Development,4.41,0.0441,1.3827,swift; kotlin; react; javascript; rest api; git
+6,Frontend Developer,Web Development,4.26,0.0426,1.3837,javascript; react; html; css; typescript; rest api; git; agile
+7,Cloud Architect,Cloud & DevOps,3.69,0.0369,1.3879,aws; azure; gcp; kubernetes; docker; microservices; serverless; terraform
+8,Python Developer,Software Engineering,3.09,0.0309,1.3922,python; django; flask; rest api; mysql; git; agile; sql
+9,Machine Learning Engineer,AI / ML,2.62,0.0262,1.3955,python; machine learning; tensorflow; pytorch; deep learning; docker; aws; numpy; pandas
+10,NLP Engineer,AI / ML,2.47,0.0247,1.3966,python; natural language processing; machine learning; deep learning; flask; tensorflow
+11,Data Analyst,Data Science,1.42,0.0142,1.4041,sql; excel; python; tableau; pandas; data visualization; statistics; communication
+12,AI Research Scientist,AI / ML,1.32,0.0132,1.4048,python; pytorch; tensorflow; deep learning; machine learning; natural language processing; computer vision; statistics
+13,Data Scientist,Data Science,1.16,0.0116,1.406,python; pandas; numpy; machine learning; tensorflow; statistics; sql; data visualization; scikit-learn; deep learning
+14,Cybersecurity Analyst,Security,1.07,0.0107,1.4067,linux; python; networking; sql; communication; problem solving
+15,Project Manager (Tech),Management,0.83,0.0083,1.4083,project management; agile; scrum; jira; leadership; communication; teamwork; presentation

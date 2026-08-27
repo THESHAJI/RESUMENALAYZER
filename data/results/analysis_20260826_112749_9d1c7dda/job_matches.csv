@@ -1,0 +1,16 @@
+rank,job_title,category,match_score_pct,cosine_similarity,euclidean_distance,required_skills
+1,Full Stack Developer,Web Development,14.18,0.1418,1.3101,javascript; react; node.js; python; mongodb; html; css; git; docker; rest api
+2,Data Scientist,Data Science,12.13,0.1213,1.3256,python; pandas; numpy; machine learning; tensorflow; statistics; sql; data visualization; scikit-learn; deep learning
+3,NLP Engineer,AI / ML,11.46,0.1146,1.3307,python; natural language processing; machine learning; deep learning; flask; tensorflow
+4,Machine Learning Engineer,AI / ML,10.29,0.1029,1.3394,python; machine learning; tensorflow; pytorch; deep learning; docker; aws; numpy; pandas
+5,Python Developer,Software Engineering,8.81,0.0881,1.3505,python; django; flask; rest api; mysql; git; agile; sql
+6,Project Manager (Tech),Management,7.65,0.0765,1.359,project management; agile; scrum; jira; leadership; communication; teamwork; presentation
+7,Data Analyst,Data Science,6.25,0.0625,1.3693,sql; excel; python; tableau; pandas; data visualization; statistics; communication
+8,Backend Developer,Software Engineering,6.2,0.062,1.3696,python; java; node.js; rest api; mongodb; postgresql; docker; microservices
+9,Frontend Developer,Web Development,5.59,0.0559,1.3741,javascript; react; html; css; typescript; rest api; git; agile
+10,DevOps Engineer,Cloud & DevOps,5.39,0.0539,1.3756,docker; kubernetes; aws; linux; ci/cd; terraform; jenkins; python; bash
+11,Database Administrator,Database,5.16,0.0516,1.3773,mysql; postgresql; oracle; sql; mongodb; redis; linux
+12,AI Research Scientist,AI / ML,3.17,0.0317,1.3916,python; pytorch; tensorflow; deep learning; machine learning; natural language processing; computer vision; statistics
+13,Cloud Architect,Cloud & DevOps,1.99,0.0199,1.4,aws; azure; gcp; kubernetes; docker; microservices; serverless; terraform
+14,Mobile App Developer,Mobile Development,1.93,0.0193,1.4005,swift; kotlin; react; javascript; rest api; git
+15,Cybersecurity Analyst,Security,0.37,0.0037,1.4116,linux; python; networking; sql; communication; problem solving

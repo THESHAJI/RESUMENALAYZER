@@ -1,0 +1,16 @@
+rank,job_title,category,match_score_pct,cosine_similarity,euclidean_distance,required_skills
+1,Python Developer,Software Engineering,57.4,0.0409,1.385,python; django; flask; rest api; mysql; git; agile; sql
+2,Full Stack Developer,Web Development,55.6,0.0548,1.3749,javascript; react; node.js; python; mongodb; html; css; git; docker; rest api
+3,Data Scientist,Data Science,54.9,0.0494,1.3788,python; pandas; numpy; machine learning; tensorflow; statistics; sql; data visualization; scikit-learn; deep learning
+4,Frontend Developer,Web Development,50.6,0.0571,1.3733,javascript; react; html; css; typescript; rest api; git; agile
+5,Mobile App Developer,Mobile Development,49.9,0.0272,1.3949,swift; kotlin; react; javascript; rest api; git
+6,Backend Developer,Software Engineering,49.5,0.0483,1.3797,python; java; node.js; rest api; mongodb; postgresql; docker; microservices
+7,Machine Learning Engineer,AI / ML,46.0,0.0589,1.372,python; machine learning; tensorflow; pytorch; deep learning; docker; aws; numpy; pandas
+8,NLP Engineer,AI / ML,37.9,0.024,1.3971,python; natural language processing; machine learning; deep learning; flask; tensorflow
+9,Database Administrator,Database,32.1,0.0179,1.4015,mysql; postgresql; oracle; sql; mongodb; redis; linux
+10,Data Analyst,Data Science,28.9,0.0218,1.3987,sql; excel; python; tableau; pandas; data visualization; statistics; communication
+11,AI Research Scientist,AI / ML,28.5,0.0188,1.4009,python; pytorch; tensorflow; deep learning; machine learning; natural language processing; computer vision; statistics
+12,Cybersecurity Analyst,Security,23.6,0.002,1.4128,linux; python; networking; sql; communication; problem solving
+13,Project Manager (Tech),Management,19.4,0.0157,1.4031,project management; agile; scrum; jira; leadership; communication; teamwork; presentation
+14,DevOps Engineer,Cloud & DevOps,10.0,0.0187,1.4009,docker; kubernetes; aws; linux; ci/cd; terraform; jenkins; python; bash
+15,Cloud Architect,Cloud & DevOps,1.9,0.0156,1.4032,aws; azure; gcp; kubernetes; docker; microservices; serverless; terraform

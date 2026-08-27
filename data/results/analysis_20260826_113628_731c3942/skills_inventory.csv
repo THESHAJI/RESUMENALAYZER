@@ -1,0 +1,32 @@
+category,skill,found_in_resume
+Programming Languages,python,Yes
+Programming Languages,java,Yes
+Programming Languages,javascript,Yes
+Programming Languages,typescript,Yes
+Programming Languages,r,Yes
+Programming Languages,sql,Yes
+Data Science & ML,machine learning,Yes
+Data Science & ML,deep learning,Yes
+Data Science & ML,tensorflow,Yes
+Data Science & ML,scikit-learn,Yes
+Data Science & ML,pandas,Yes
+Data Science & ML,numpy,Yes
+Data Science & ML,statistics,Yes
+Data Science & ML,nlp,Yes
+Data Science & ML,random forest,Yes
+Web Development,react,Yes
+Web Development,node.js,Yes
+Web Development,express,Yes
+Web Development,html5,Yes
+Web Development,css3,Yes
+Web Development,next.js,Yes
+Web Development,fastapi,Yes
+Cloud & DevOps,cloud computing,Yes
+Databases,mysql,Yes
+Databases,mongodb,Yes
+Databases,sqlite,Yes
+Tools & Platforms,git,Yes
+Tools & Platforms,github,Yes
+Tools & Platforms,postman,Yes
+Soft Skills,agile,Yes
+Soft Skills,scrum,Yes

@@ -1,0 +1,6 @@
+job_title,match_score,skill_coverage_pct,present_skills,missing_skills,total_required,total_present,total_missing
+Mobile App Developer,0.9,0.0,,rest api; kotlin; swift; git; javascript; react,6,0,6
+DevOps Engineer,0.81,0.0,,linux; aws; ci/cd; bash; python; jenkins; docker; terraform; kubernetes,9,0,9
+Frontend Developer,0.73,0.0,,typescript; rest api; css; git; html; agile; javascript; react,8,0,8
+Data Analyst,0.49,12.5,sql,communication; data visualization; tableau; pandas; python; excel; statistics,8,1,7
+NLP Engineer,0.38,0.0,,natural language processing; deep learning; python; flask; tensorflow; machine learning,6,0,6

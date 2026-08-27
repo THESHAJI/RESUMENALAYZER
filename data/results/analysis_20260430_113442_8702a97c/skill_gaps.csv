@@ -1,0 +1,6 @@
+job_title,match_score,skill_coverage_pct,present_skills,missing_skills,total_required,total_present,total_missing
+Python Developer,4.72,25.0,python; git,agile; flask; rest api; django; mysql; sql,8,2,6
+Frontend Developer,4.68,62.5,git; react; css; html; javascript,typescript; agile; rest api,8,5,3
+Full Stack Developer,3.3,70.0,mongodb; python; react; javascript; css; html; git,docker; node.js; rest api,10,7,3
+Machine Learning Engineer,3.21,22.2,python; machine learning,numpy; pandas; deep learning; pytorch; docker; tensorflow; aws,9,2,7
+Backend Developer,2.79,37.5,mongodb; java; python,node.js; rest api; docker; postgresql; microservices,8,3,5
